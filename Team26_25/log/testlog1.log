@@ -1,0 +1,20 @@
+2024-05-29 14:52:51,817 [main] INFO org.openqa.selenium.chrome.ChromeDriver - username is entered
+2024-05-29 14:52:51,941 [main] INFO org.openqa.selenium.chrome.ChromeDriver - password is entered
+2024-05-29 14:52:54,345 [main] INFO org.openqa.selenium.chrome.ChromeDriver - login btn clicking activity is completed
+2024-05-29 15:08:56,269 [main] INFO org.openqa.selenium.chrome.ChromeDriver - username is entered
+2024-05-29 15:08:56,410 [main] INFO org.openqa.selenium.chrome.ChromeDriver - password is entered
+2024-05-29 15:08:57,660 [main] INFO org.openqa.selenium.chrome.ChromeDriver - login btn clicking activity is completed
+2024-05-29 15:08:57,887 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Screenshot is taken
+2024-05-29 15:08:57,888 [main] INFO org.openqa.selenium.chrome.ChromeDriver - testcase is failed
+2024-05-30 15:13:12,384 [main] INFO org.openqa.selenium.chrome.ChromeDriver - username is entered
+2024-05-30 15:13:12,516 [main] INFO org.openqa.selenium.chrome.ChromeDriver - password is entered
+2024-05-30 15:13:13,260 [main] INFO org.openqa.selenium.chrome.ChromeDriver - login btn clicking activity is completed
+2024-05-30 15:13:13,576 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Screenshot is taken
+2024-05-30 15:13:13,577 [main] INFO org.openqa.selenium.chrome.ChromeDriver - testcase is failed
+2024-05-30 15:32:51,564 [main] INFO org.openqa.selenium.chrome.ChromeDriver - username is entered
+2024-05-30 15:32:51,967 [main] INFO org.openqa.selenium.chrome.ChromeDriver - password is entered
+2024-05-30 15:32:52,746 [main] INFO org.openqa.selenium.chrome.ChromeDriver - login btn clicking activity is completed
+2024-05-30 15:32:53,364 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken
+2024-05-30 15:32:54,142 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken
+2024-05-31 15:31:48,195 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken
+2024-05-31 15:34:08,138 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken

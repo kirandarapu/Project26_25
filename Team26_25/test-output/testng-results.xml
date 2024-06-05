@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-31T15:51:13 IST" name="Suite" finished-at="2024-05-31T15:51:53 IST" duration-ms="39294">
+    <groups>
+    </groups>
+    <test started-at="2024-05-31T15:51:13 IST" name="Test" finished-at="2024-05-31T15:51:53 IST" duration-ms="39294">
+      <class name="Adactin_Testcases.Adactin_DatadrivenTest_002">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:Adactin_Testcases.Adactin_DatadrivenTest_002@cecf639]" started-at="2024-05-31T15:51:16 IST" name="openApp" finished-at="2024-05-31T15:51:46 IST" duration-ms="30548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="datadriventest(java.lang.String,java.lang.String)[pri:0, instance:Adactin_Testcases.Adactin_DatadrivenTest_002@cecf639]" started-at="2024-05-31T15:51:49 IST" name="datadriventest" data-provider="SampleExcel1122" finished-at="2024-05-31T15:51:50 IST" duration-ms="1432" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[naveen2747]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriventest -->
+        <test-method signature="datadriventest(java.lang.String,java.lang.String)[pri:0, instance:Adactin_Testcases.Adactin_DatadrivenTest_002@cecf639]" started-at="2024-05-31T15:51:50 IST" name="datadriventest" data-provider="SampleExcel1122" finished-at="2024-05-31T15:51:51 IST" duration-ms="1019" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kiran@2746]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tester@2747]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriventest -->
+        <test-method signature="datadriventest(java.lang.String,java.lang.String)[pri:0, instance:Adactin_Testcases.Adactin_DatadrivenTest_002@cecf639]" started-at="2024-05-31T15:51:51 IST" name="datadriventest" data-provider="SampleExcel1122" finished-at="2024-05-31T15:51:52 IST" duration-ms="1101" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[naveen2747]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tester@2747]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriventest -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Adactin_Testcases.Adactin_DatadrivenTest_002@cecf639]" started-at="2024-05-31T15:51:52 IST" name="closeApp" finished-at="2024-05-31T15:51:53 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Adactin_Testcases.Adactin_DatadrivenTest_002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
